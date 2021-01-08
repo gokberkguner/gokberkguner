@@ -1,6 +1,6 @@
 ### Hi, I'm Gökberk Güner 👋
 
-
+<h3 align="left">That's how we start:</h3>
 
 - 🔭 I’m currently working on project with Android Studio.
 - 🌱 I’m currently learning Python.
