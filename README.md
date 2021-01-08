@@ -1,6 +1,6 @@
 ### Hi, I'm Gökberk Güner 👋
 
-That's how we start:
+
 
 - 🔭 I’m currently working on project with Android Studio.
 - 🌱 I’m currently learning Python.
