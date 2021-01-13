@@ -13,8 +13,6 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <img src = "https://github-readme-stats.vercel.app/api?username=gokberkguner&&show_icons=true&title_color=ffffff&icon_color=bd8326&text_color=ffffff&bg_color=151515">
-
-<h3 align="left">Most Used Languages:</h3>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gokberkguner&layout=default&show_icons=true&title_color=ffffff&icon_color=bd8326&text_color=ffffff&bg_color=151515")">
 
 
