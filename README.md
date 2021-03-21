@@ -3,12 +3,9 @@
 <h3 align="left">That's how we start:</h3>
 
 - 🔭 I’m currently working on project with Android Studio.
-- 🌱 I’m currently learning Python.
-- 👯 I’m looking to collaborate on Data Science.
-- 🤔 I’m looking for help with Udemy.
+- 🌱 I’m currently learning Dart.
 - 💬 Ask me about Java.
 - 📫 How to reach me: Discord - @shadowmaker.
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm a metalhead and proud with it.
 
 [![Gökberk's github stats](https://github-readme-stats.vercel.app/api?username=gokberkguner&&show_icons=true&title_color=ffffff&icon_color=bd8326&text_color=ffffff&bg_color=151515)](https://github.com/gokberkguner/github-readme-stats)
