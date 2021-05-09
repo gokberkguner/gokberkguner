@@ -3,8 +3,8 @@
 <h3 align="left">That's how we start:</h3>
 
 - 🔭 I’m currently working on project with Android Studio.
-- 🌱 I’m currently learning Dart.
-- 💬 Ask me about Java.
+- 🌱 I’m currently learning Kotlin.
+- 💬 Ask me about Flutter.
 - 📫 How to reach me: Discord - @shadowmaker.
 - ⚡ Fun fact: I'm a metalhead and proud with it.
 
